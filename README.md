@@ -22,6 +22,7 @@
 3. SVM-based classification
 
 **Key Features**:
+
 ✔️ Bandpass filtering (0.5-40Hz Butterworth)  
 ✔️ 2-second sliding window processing  
 ✔️ 23+ features per channel (statistical/spectral)  
